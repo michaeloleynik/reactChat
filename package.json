@@ -25,7 +25,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "http://localhost:9999",
+  "proxy": "https://react-chat-ltozblqms.vercel.app",
   "browserslist": {
     "production": [
       ">0.2%",
